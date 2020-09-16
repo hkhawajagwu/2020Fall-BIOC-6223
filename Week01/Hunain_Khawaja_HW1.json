@@ -1,0 +1,30 @@
+{
+	"Gene_information" :  [{
+		"Name" : DUX4
+		"Accession" : "FJ439133", 
+		"Species" : "Homo sapiens",
+		"Length" : 8671
+		}, {
+		"Name" : "PITX1" 
+		"Accession" : "NM_011097", 
+		"Species" : "Mus musculus",
+		"Length" : 2448
+		}, {
+		"Name" : "GAPDH"
+		"Accenssion" : "NM_001115114", 
+		"Species" : "Danio rerio",
+		"Length" : 1329
+		}, {
+		"Name" : "ZSCAN4"
+		"Accession" : "NM_152677", 
+		"Species" : "Homo sapiens",
+		"Length" : 2238
+		}, {
+		{"Name" : "P53" 
+		"Accession" : "MH011443", 
+		"Species" : "Homo sapiens",
+		"Length" : 123
+		}]
+}
+
+
